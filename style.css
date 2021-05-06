@@ -1,1 +1,10 @@
-
+body {
+  background-color: powderblue;
+}
+h1 { color: blue;
+  font-family: Georgia
+  text-align: center;
+}
+p { color: red; 
+  
+}
